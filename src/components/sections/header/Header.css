@@ -1,0 +1,17 @@
+header{
+    background-image: url('../../../assets/towntaxi.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    background-position: center;
+}
+.title-yandex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logoYandexGo{
+    width: 134px;
+    height: 37px;
+}
