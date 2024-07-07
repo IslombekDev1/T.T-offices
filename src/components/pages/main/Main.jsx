@@ -37,12 +37,12 @@ function Main() {
 
                 <h2 id='#beruniy'>Beruniy ofis</h2>
                 <p>
-                    Beruniy metrodan 1.3 km uzoqlikda Farobiy ko'chasida joylashgan,
+                    Beruniy  metrodan 1.3 km uzoqlikda Farobiy ko'chasida joylashgan,
                     orintir: Beruniy metrodan Farobiy ko'chaga qarab yurganda To'lqin Akrom o'g'li Masjidiga yetmasdan
                 </p>
 
                 <div>
-                    <iframe style={{ width: "100%" }} src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=41.349277,%2069.191626+(Beruniy%20Ofis)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" />
+                    <iframe title="This is a unique title" width={'100%'}  src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=41.349277,%2069.191626+(Beruniy%20Ofis)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" />
                     <a href="https://www.gps.ie/">gps devices</a>
                 </div>
 
