@@ -4,3 +4,9 @@ form.office-addresses{
     flex-direction: column;
     gap: 15px;
 }
+
+.location-of-offices-box{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
