@@ -91,10 +91,11 @@ function Main() {
 
                         <div id='xondamir' className="xondamirBox">
                             <h2>Xondamir ofis</h2>
-                            {/* <p>
-                                <br />
-                                orintir:
-                            </p> */}
+                            <p style={{color:'yellow'}}>
+                                Jarayonda
+                                {/* <br />
+                                orintir: */}
+                            </p>
 
                             <div>
 
@@ -126,9 +127,10 @@ function Main() {
 
                         <div id='keles' className="kelesBox">
                             <h2>Keles ofis</h2>
-                            <p>
-                                <br />
-                                orintir:
+                            <p style={{color:'yellow'}}>
+                                Jarayonda
+                                {/* <br />
+                                orintir: */}
                             </p>
 
                             <div>
